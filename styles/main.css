@@ -111,6 +111,7 @@ body {
     display: none;
 }
 .title {
+    font-family: 'Nunito Sans', sans-serif;
     font-weight: 700;
     font-size: 79px;
     margin-top: 10px;
